@@ -1,0 +1,7 @@
+{
+  "name": "smartbudgetplanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
